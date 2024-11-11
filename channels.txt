@@ -1,0 +1,308 @@
+{
+  "channels": [
+    {
+      "name": "Magic",
+      "videos": [
+        {
+          "id": "PL3jB9vgAcumCz4Q3-kUq2Hr6txrhaznEU",
+          "sectionStart": 0,
+          "sectionEnd": 10000000
+        },
+        {
+          "id": "EPYy_g8NzmI",
+          "sectionStart": 70,
+          "sectionEnd": 660
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "videos": []
+    },
+    {
+      "name": "Music",
+      "videos": [
+        {
+          "id": "Rbz0JZxyzxE",
+          "sectionStart": 0,
+          "sectionEnd": 521
+        },
+        {
+          "id": "r9LCwI5iErE",
+          "sectionStart": 0,
+          "sectionEnd": 521
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "videos": [
+        {
+          "id": "qKta3RPyLIo",
+          "sectionStart": 0,
+          "sectionEnd": 1731
+        },
+        {
+          "id": "V4OGs1DehzA",
+          "sectionStart": 0,
+          "sectionEnd": 1310
+        },
+        {
+          "id": "PMIF4IyDM6o",
+          "sectionStart": 0,
+          "sectionEnd": 3130
+        }
+      ]
+    },
+    {
+      "name": "Documentary",
+      "videos": [
+        {
+          "id": "MtdupS0gRt0",
+          "sectionStart": 30,
+          "sectionEnd": 521
+        },
+        {
+          "id": "wDOvmhqvIA8",
+          "sectionStart": 0,
+          "sectionEnd": 1320
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "videos": [
+        {
+          "id": "f8CXG7dS-D0",
+          "sectionStart": 25,
+          "sectionEnd": 1492
+        },
+        {
+          "id": "MmG2ah5Df4g",
+          "sectionStart": 70,
+          "sectionEnd": 620
+        },
+        {
+          "id": "Hp9PIXOYaEA",
+          "sectionStart": 70,
+          "sectionEnd": 800
+        },
+        {
+          "id": "aFlromB6SnU",
+          "sectionStart": 2,
+          "sectionEnd": 755
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "videos": []
+    },
+    {
+      "name": "Health & Fitness",
+      "videos": []
+    },
+    {
+      "name": "Technology",
+      "videos": []
+    },
+    {
+      "name": "Exploration",
+      "videos": []
+    },
+    {
+      "name": "Psychology & Self-Help",
+      "videos": []
+    },
+    {
+      "name": "Education",
+      "videos": []
+    },
+    {
+      "name": "Family & Kids",
+      "videos": []
+    },
+    {
+      "name": "Outdoors",
+      "videos": [
+        {
+          "id": "vp_c9LbucdY",
+          "sectionStart": 60,
+          "sectionEnd": 2180
+        },
+        {
+          "id": "MOI6VNvmz68",
+          "sectionStart": 50,
+          "sectionEnd": 1330
+        },
+        {
+          "id": "s5CEWqoUTwk",
+          "sectionStart": 50,
+          "sectionEnd": 750
+        },
+        {
+          "id": "Vs_ndX3GnC8",
+          "sectionStart": 175,
+          "sectionEnd": 750
+        },
+        {
+          "id": "OChIrbqGB2U",
+          "sectionStart": 0,
+          "sectionEnd": 1315
+        }
+      ]
+    },
+    {
+      "name": "Culture & Society",
+      "videos": []
+    },
+    {
+      "name": "Computers",
+      "videos": [
+        {
+          "id": "vc79sJ9VOqk",
+          "sectionStart": 0,
+          "sectionEnd": 1185
+        },
+        {
+          "id": "Ic0dkf1iFOY",
+          "sectionStart": 0,
+          "sectionEnd": 1500
+        },
+        {
+          "id": "tc4ROCJYbm0",
+          "sectionStart": 0,
+          "sectionEnd": 1600
+        },
+        {
+          "id": "KG2M4ttzBnY",
+          "sectionStart": 0,
+          "sectionEnd": 865
+        },
+        {
+          "id": "U_o8gerare0",
+          "sectionStart": 0,
+          "sectionEnd": 1550
+        }
+      ]
+    },
+    {
+      "name": "Business & Finance",
+      "videos": []
+    },
+    {
+      "name": "Engineering & Design",
+      "videos": [
+        {
+          "id": "W1L1sU0uI0o",
+          "sectionStart": 20,
+          "sectionEnd": 715
+        },
+        {
+          "id": "BKm45Az02YE",
+          "sectionStart": 0,
+          "sectionEnd": 950
+        },
+        {
+          "id": "KoJ0Pih0Ssc",
+          "sectionStart": 0,
+          "sectionEnd": 590
+        }
+      ]
+    },
+    {
+      "name": "Motorsports & Automotive",
+      "videos": []
+    },
+    {
+      "name": "Comedy",
+      "videos": [
+        {
+          "id": "qpaue3Jhn1o",
+          "sectionStart": 0,
+          "sectionEnd": 144
+        },
+        {
+          "id": "Zen_zRmbKaM",
+          "sectionStart": 15,
+          "sectionEnd": 2200
+        },
+        {
+          "id": "N_iggxI2HSk",
+          "sectionStart": 0,
+          "sectionEnd": 1482
+        },
+        {
+          "id": "leG0U5wzGlA",
+          "sectionStart": 0,
+          "sectionEnd": 2090
+        }
+      ]
+    },
+
+    {
+      "name": "Arts",
+      "videos": []
+    },
+    {
+      "name": "Cartoons For Adults",
+      "videos": []
+    },
+    {
+      "name": "Astronomy",
+      "videos": []
+    },
+    {
+      "name": "Gardening & Nature",
+      "videos": []
+    },
+    {
+      "name": "Religion & Philosophy",
+      "videos": []
+    },
+    {
+      "name": "Politics",
+      "videos": []
+    },
+    {
+      "name": "Home & DIY",
+      "videos": [
+        {
+          "id": "RFEY--Gp1D8",
+          "sectionStart": 10,
+          "sectionEnd": 173
+        },
+        {
+          "id": "n-K8l43sZgA",
+          "sectionStart": 31,
+          "sectionEnd": 600
+        },
+        {
+          "id": "nCKkHqlx9dE",
+          "sectionStart": 0,
+          "sectionEnd": 660
+        }
+      ]
+    },
+    {
+      "name": "Food & Cooking",
+      "videos": [
+        {
+          "id": "Wwgn5k_TzKM",
+          "sectionStart": 26,
+          "sectionEnd": 223
+        },
+        {
+          "id": "yC8fvt-CxP0",
+          "sectionStart": 154,
+          "sectionEnd": 441
+        },
+        {
+          "id": "dsg5H2TEQXs",
+          "sectionStart": 53,
+          "sectionEnd": 259
+        }
+      ]
+    }
+  ]
+}
